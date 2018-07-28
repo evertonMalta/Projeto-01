@@ -1,2 +1,2 @@
 # Projeto-01
-Primeiro Site desenvolvido em estudo
+Projeto em C para Locadora de Veículos
